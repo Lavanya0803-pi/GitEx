@@ -1,1 +1,6 @@
 "Create a html file" 
+git commands:
+git init
+git add File name
+
+
